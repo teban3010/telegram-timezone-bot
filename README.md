@@ -10,6 +10,8 @@ The available commands are:
 - /timeat - Get time at specified timezone
 - /timepopularity - Get the amount of requests to a specified timezone
 
+![](./docs/demo.gif)
+
 ## Development
 
 Create a new `.env.local` file with the following environment parameters:
